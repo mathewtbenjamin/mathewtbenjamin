@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mathewtbenjamin
+- 👀 I’m interested in learning how computers work.
+- 🌱 I’m currently learning Python.
