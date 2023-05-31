@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mathewtbenjamin
-- 👀 I’m interested in learning how computers work.
+- 👀 I am interested in knowledge management tools that superpower prosthetic intelligence.
 - 🌱 I’m currently learning Python via OSS University - a community of students of all levels, completing a comprehensive, project based, open-source computer science curriculum, helping each other and sharing their experiences and code through github and our community forums.
