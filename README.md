@@ -8,12 +8,12 @@
 - Right now: On sabbatical — searching for what’s next, collecting & connecting the dots
   - Mostly tinkering with tools, reading *a lot*, and contributing to open-source projects
 - Past avatars have included stints as:
-  - **Investor** @ Sequoia Capital, et al.
-  - **Advisor** @ Cortical Labs, @ Deployable Energy, et al.
+  - **Investor** [@Sequoia Capital](https://sequoiacap.com/), et al.
+  - **Advisor** [@Cortical Labs](https://corticallabs.com/), [@Deployable Energy](https://www.deployable.energy/), et al.
   - **Product Builder**
-    - @ Appen “Data labeling at scale”
-    - @ Notiv (acquired) — “Siri for business meetings”
-    - @ RazorWire Labs - “learned the hard way”
+    - [@Appen](https://www.appen.com) “Data labeling at scale”
+    - [@Notiv](https://www.dubber.net/learn/blog-posts/dubber-acquires-world-class-ai-technology-company-notiv/) (acquired) — “Siri for business meetings”
+    - [@RazorWire Labs](https://www.dst.defence.gov.au/opportunity/artificial-intelligence-decision-making-initiative-2022) - “learned the hard way”
 - 🌱 Fun fact: I’m attempting to turn a **Brachychiton Rupestris** (Queensland bottle tree) into a bonsai
 
 ---
