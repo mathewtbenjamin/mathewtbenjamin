@@ -1,7 +1,7 @@
-G'day and Welcome 🚀
+#G'day and Welcome 🚀
 ---
 
-About Me 
+###About Me 
 ---
 + 👋 Hi, I’m @mathewtbenjamin
 + 🧠 I am interested in tools that superpower prosthetic intelligence.
@@ -15,7 +15,7 @@ About Me
   - operator (Product @Appen "Datalabeling company", @Notiv "startup that was acquired", @RazorWireLabs "startup that died"). 
 + 🌱 Fun fact: I am attempting to make bonsai out of the Brachychiton Rupestris (a tree native to Queensland, Australia).
 
-**Get in touch**
+###Get in touch
 ---
 🔗 Connect with me on [LinkedIn ](https://www.linkedin.com/notifications/?filter=all)
 X Follow me on [twitter/X](https://x.com/mathewtbenjamin)
