@@ -11,9 +11,9 @@
   - **Investor** @ Sequoia Capital, et al.
   - **Advisor** @ Cortical Labs, @ Deployable Energy, et al.
   - **Product Builder**
-    - @ Appen (“Data labeling at scale”)
+    - @ Appen “Data labeling at scale”
     - @ Notiv (acquired) — “Siri for business meetings”
-    - @ RazorWire Labs (“learned the hard way”)
+    - @ RazorWire Labs - “learned the hard way”
 - 🌱 Fun fact: I’m attempting to turn a **Brachychiton Rupestris** (Queensland bottle tree) into a bonsai
 
 ---
