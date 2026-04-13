@@ -11,7 +11,7 @@
   - **Investor** [@Sequoia Capital](https://sequoiacap.com/), et al.
   - **Advisor** [@Cortical Labs](https://corticallabs.com/), [@Deployable Energy](https://www.deployable.energy/), et al.
   - **Product things**
-    - [@Appen](https://www.appen.com) “Data labeling at scale”
+    - [@Appen](https://www.appen.com) - “Data labeling at scale”
     - [@Notiv](https://www.dubber.net/learn/blog-posts/dubber-acquires-world-class-ai-technology-company-notiv/) (acquired) - “Siri for business meetings”
     - [@RazorWire Labs](https://www.dst.defence.gov.au/opportunity/artificial-intelligence-decision-making-initiative-2022) - “learned the hard way”
 - 🌱 Fun fact: I’m attempting to turn a **Brachychiton Rupestris** (Queensland bottle tree) into a bonsai
