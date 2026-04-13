@@ -3,7 +3,7 @@
 ---
 
 ### TL;DR
-- 👋 Hi, I’m **@mathewtbenjamin**
+- 👋 Hi, I’m [@mathewtbenjamin](https://x.com/mathewtbenjamin)
 - 🧠 Interested in tools that superpower **prosthetic intelligence**
 - Right now: On sabbatical — searching for what’s next, collecting & connecting the dots
   - Mostly tinkering with tools, reading *a lot*, and contributing to open-source projects
