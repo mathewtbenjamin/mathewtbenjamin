@@ -1,7 +1,7 @@
 G'day and Welcome 🚀
 ---
 
-**About Me **
+About Me 
 ---
 + 👋 Hi, I’m @mathewtbenjamin
 + 🧠 I am interested in tools that superpower prosthetic intelligence.
