@@ -41,8 +41,8 @@
 
 ### Work With Me
 I’m interested in:
-- Early-stage companies (0→1 and 1→10)
-- AI-native products and infrastructure
+- Early-stage companies (0→1)  
+- AI-native products and infrastructure (startup > enterprise)
 - High-agency operators and builders
 
 If you’re working on something serious in this space, feel free to reach out.
