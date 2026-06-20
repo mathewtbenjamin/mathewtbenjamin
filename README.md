@@ -27,7 +27,7 @@
 ### What I Actually Do
 - Break down complex systems (product, people, markets) into simple stories — e.g. “why now?”
 - Identify leverage points (where small changes = massive outcomes)
-- Design + implement + execute strategies across -1→0, 0→1 and 1→10 phases (aka venture building)
+- Design + implement + execute strategies across -1→0 and 0→1 and 1→10 phases (aka venture building)
 - Translate ambiguity into structured execution (vibes → structure)
 
 ### Current Exploration (Sabbatical Mode)
@@ -41,7 +41,7 @@
 
 ### Work With Me
 I’m interested in:
-- Early-stage companies (-1→0,0→1)  
+- Early-stage companies (-1→0 and 0→1)  
 - AI-native products and infrastructure (startup > enterprise)
 - High-agency operators and builders
 
